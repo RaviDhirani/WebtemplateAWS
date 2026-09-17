@@ -1,11 +1,11 @@
 {
   "version": "2.6.2",
-  "release_version": "",
+  "release_version": "V1",
   "released_at": "",
   "summary": {
     "title": "New Threat Model",
-    "owner": "",
-    "description": "",
+    "owner": "Ravi",
+    "description": "Testing ",
     "id": 0
   },
   "detail": {
@@ -13,16 +13,17 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "New generic diagram",
-        "diagramType": "Generic",
-        "placeholder": "New generic diagram description",
-        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "title": "test",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "test"
       }
     ],
-    "diagramTop": 1,
-    "reviewer": "",
+    "diagramTop": 2,
+    "reviewer": "Kevin",
     "threatTop": 0
   }
 }
